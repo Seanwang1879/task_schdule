@@ -1,0 +1,1 @@
+int* maopao(int* list);
